@@ -1,0 +1,5 @@
+{
+  "name": "stdio-github",
+  "version": "0.1.0",
+  "description": "Test plugin: evaluates whether Cowork loads a plugin-shipped .mcp.json that uses stdio transport against a locally installed github-mcp-server binary."
+}

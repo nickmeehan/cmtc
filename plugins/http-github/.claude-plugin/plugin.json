@@ -1,0 +1,5 @@
+{
+  "name": "http-github",
+  "version": "0.1.0",
+  "description": "Test plugin: evaluates whether Cowork loads a plugin-shipped .mcp.json that uses HTTP transport against GitHub's hosted MCP endpoint."
+}
