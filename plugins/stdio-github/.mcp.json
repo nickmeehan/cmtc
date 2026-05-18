@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "github-stdio": {
+      "command": "/Users/nickmeehan/.local/bin/github-mcp-server",
+      "args": ["stdio"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "REPLACE_WITH_YOUR_PAT"
+      }
+    }
+  }
+}
